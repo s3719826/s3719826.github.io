@@ -1,18 +1,16 @@
 body {
 	text-align: center;
-	color: #0B132B;
+	background-color: #0B132B;
 }
 
 p {
-	font-size: 1em;
-	line-height: 1.4em;
-	margin-bottom: 20px;
+	font-size: 12px;
 	color: #709CD1;
   	text-align: center;
 }
 .pics{
-  height: 200px;
-  width: 200px;
+  height: 150px;
+  width: 150px;
   display: block;
   margin-left: auto;
   margin-right: auto;	
